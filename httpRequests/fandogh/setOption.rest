@@ -1,0 +1,8 @@
+POST https://football-api-user-challenge-app-mohsenxad.fandogh.cloud/userChallenge/setOption
+token: <AUTH_TOKEN>
+Content-Type: application/json
+
+{
+    "challengeId":"63622f4664a558c7faf1a882",
+    "challengeOptionId":"63622f3db7de3a13e34bdd23"
+}
